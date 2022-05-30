@@ -15,6 +15,7 @@ My hobbies are Gaming, Listening Music, Producing Music, Watching Movies etc.
 |2021|12th Standard|Govt. Boys Higher Secondary School, Kayamkulam|
 |2019|10th Standard|VVHSS Thamarakulam|
 <br>
+
 ## 1st-year Courses @ IIT Goa
 
 ### Autumn 2021-2022
