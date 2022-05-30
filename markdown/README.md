@@ -1,5 +1,7 @@
 # Adithya Sajeevan
 
+![](\\wsl.localhost\Ubuntu\home\adithya\Adithya-Sajeevan.github.io\img\Adithya_sajeevan.jpg)
+
 I'm a B.Tech 1st year student in IIT Goa, pursuing Mathematics and Computing Branch.
 I've been qualified JEE Advanced entrance examination with Category Rank 1243.
 My hobbies are Gaming, Listening Music, Producing Music, Watching Movies etc.
